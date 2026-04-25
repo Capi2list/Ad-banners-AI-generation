@@ -49,4 +49,3 @@ rembg[cpu]
 xformers
 gradio
 # for kohya_ss library
--e .
